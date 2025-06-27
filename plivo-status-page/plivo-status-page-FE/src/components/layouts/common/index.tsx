@@ -1,0 +1,1 @@
+export { default as DarkThemedWrapper } from "./dark-themed-wrapper";

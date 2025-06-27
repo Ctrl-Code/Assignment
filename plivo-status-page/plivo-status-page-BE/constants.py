@@ -1,0 +1,22 @@
+class Constants:
+    # Role
+    ROLE_MEMBER = 1
+    ROLE_ADMIN = 2
+    ROLE_SUPER_ADMIN = 3
+
+    # Not Deleted
+    NOT_DELETED = 1
+    DELETED = 0
+
+    # Incident Status
+    INCIDENT_STATUS_OPEN = 1
+    INCIDENT_STATUS_RESOLVED = 2
+
+    # Incident Update Type  
+    INCIDENT_UPDATE_TYPE_INCIDENT_UPDATE = 1
+    INCIDENT_UPDATE_TYPE_SCHEDULED_MAINTENANCE = 2
+
+    MAINTENANCE_TYPE_START = 1
+    MAINTENANCE_TYPE_END = 2
+
+    TEXT_SCHEDULED_MAINTENANCE = "Scheduled Maintenance"
